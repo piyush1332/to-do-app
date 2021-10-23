@@ -101,7 +101,7 @@
 }
 
 .task-text {
-    width: 180px !important;
+    width: 55% !important;
     display: inline-block;
     white-space: nowrap;
     overflow: hidden !important;
