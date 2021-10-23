@@ -98,7 +98,7 @@
 .task-list .task-text {
     width: 55%;
     padding: 17px 0px;
-    line-height: 19px;
+    line-height: 4vh;
 }
 
 .task-text {
